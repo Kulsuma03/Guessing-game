@@ -31,9 +31,9 @@
 <body>
     <div class="header">
         <h1>Guessing Game</h1>
-        <p>hint ----> For music first letter is <span>a</span></h2>
-        <p>hint ----> For movie first letter is <span>b</span></h2>
-        <p>hint ----> For game first letter is <span>c</span></h2>
+        <p>hint ----> For music first letter is <span>a</span></p>
+        <p>hint ----> For movie first letter is <span>b</span></p>
+        <p>hint ----> For game first letter is <span>c</span></p>
     </div>
     <div class="guess">
         <form action="guess.php" method="POST">
